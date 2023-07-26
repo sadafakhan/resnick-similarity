@@ -14,5 +14,4 @@ To run:
 src/hw8_resnick_wsd.sh input/mc_similarity.txt input/wsd_contexts.txt input/wsd_contexts.txt.gold output/<output_filename>
 ```
 
-
 HW8 OF LING571 (12/06/2021)
