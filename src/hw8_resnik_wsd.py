@@ -1,7 +1,3 @@
-"""Sadaf Khan, LING571, HW8, 12/06/2021. Program that performs Word Sense Disambiguation based on noun groups, using
-Resnik’s method and WordNet-based similarity measure. Computes and compares similarity scores for a set of
-human judgments."""
-
 import os
 import sys
 import itertools
